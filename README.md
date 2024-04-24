@@ -4,5 +4,6 @@ Problem Statement: Develop a simple yet effective website to showcase a variety 
 
 Here is the website i have made:
 
-https://github.com/AkshayTeja/WebCraft-WebDevComp-Round2/assets/117750090/1c37ef24-e843-498d-a5ab-808dd21b676f
+https://github.com/AkshayTeja/WebCraft-WebDevComp-Round2/assets/117750090/98014878-ac85-4b25-b090-6cd6d39a6c03
+
 
